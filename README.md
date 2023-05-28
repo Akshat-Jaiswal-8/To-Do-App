@@ -17,7 +17,8 @@ git clone https://github.com/Akshat-Jaiswal-8/To-do-App.git
 
 ``` 
 cd To-Do-App
-yarn install
+yarn 
+
 
 ```
 - For running in Windows (Make sure your simulator is also running)
